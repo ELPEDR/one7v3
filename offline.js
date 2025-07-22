@@ -1,0 +1,28 @@
+﻿{
+	"version": 1753146092,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/phone-sheet0.png",
+		"images/phone-sheet1.png",
+		"images/phone-sheet2.png",
+		"images/openanim-sheet0.png",
+		"images/displayres-sheet0.png",
+		"images/ghosttouch-sheet0.png",
+		"images/homeicon-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/tiledbackground.png",
+		"images/spritefont.png",
+		"images/bar-sheet0.png",
+		"images/sprite13-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
