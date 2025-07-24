@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1753390364,
+	"version": 1753391832,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,7 +11,7 @@
 		"images/displayres-sheet0.png",
 		"images/ghosttouch-sheet0.png",
 		"images/homeicon-sheet0.png",
-		"images/sprite2-sheet0.png",
+		"images/wall-sheet0.png",
 		"images/batteryback-sheet0.png",
 		"images/tiledbackground.png",
 		"images/spritefont.png",
@@ -37,6 +37,9 @@
 		"images/sprite23-sheet0.png",
 		"images/9patch.png",
 		"images/sprite5-sheet0.png",
+		"images/sprite21-sheet0.png",
+		"images/sprite22-sheet0.png",
+		"images/sprite41-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
