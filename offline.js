@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1755286497,
+	"version": 1755320076,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,16 @@
 		"images/gdtext-sheet0.png",
 		"images/fadegd-sheet0.png",
 		"images/sprite2-sheet0.png",
+		"images/fingerprint-sheet0.png",
+		"images/fingerpress-sheet0.png",
+		"images/fingerlight-sheet0.png",
+		"images/spritefont3.png",
+		"images/clock-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/backcabkbat-sheet0.png",
+		"images/backbat.png",
+		"images/charging-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
