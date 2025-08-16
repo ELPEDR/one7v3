@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1755360621,
+	"version": 1755362976,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,6 +7,7 @@
 		"offlineClient.js",
 		"images/phone-sheet0.png",
 		"images/phone-sheet1.png",
+		"images/phone-sheet2.png",
 		"images/openanim-sheet0.png",
 		"images/displayres-sheet0.png",
 		"images/ghosttouch-sheet0.png",
@@ -20,6 +21,7 @@
 		"images/sprite3-sheet0.png",
 		"images/settings-sheet0.png",
 		"images/settings-sheet1.png",
+		"images/settings-sheet2.png",
 		"images/fade-sheet0.png",
 		"images/onoff-sheet0.png",
 		"images/onoff-sheet1.png",
@@ -42,6 +44,7 @@
 		"images/sprite41-sheet0.png",
 		"images/goodlock-sheet0.png",
 		"images/goodlock-sheet1.png",
+		"images/goodlock-sheet2.png",
 		"images/glocb-sheet0.png",
 		"images/gdtext-sheet0.png",
 		"images/fadegd-sheet0.png",
