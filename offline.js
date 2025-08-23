@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1755362976,
+	"version": 1755918597,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -9,6 +9,7 @@
 		"images/phone-sheet1.png",
 		"images/phone-sheet2.png",
 		"images/openanim-sheet0.png",
+		"images/openanim-sheet1.png",
 		"images/displayres-sheet0.png",
 		"images/ghosttouch-sheet0.png",
 		"images/homeicon-sheet0.png",
