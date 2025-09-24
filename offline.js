@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1758596026,
+	"version": 1758682109,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -68,6 +68,7 @@
 		"images/glocb2-sheet0.png",
 		"images/sprite17-sheet0.png",
 		"images/themes-sheet0.png",
+		"images/themes-sheet1.png",
 		"images/themesback-sheet0.png",
 		"images/previewsprite-sheet0.png",
 		"images/themesdownload-sheet0.png",
